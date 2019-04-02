@@ -59,7 +59,7 @@ for quick and efficient reuse. Typical tools include Python, PowerShell, and Bat
 files depending on the need.
 - Manage VMware vSphere 6 and Dell EqualLogic infrastructure
 - Manage Windows Server infrastructure consisting of Windows Server 2008 R2 and
-Server 2012 R
+Server 2012 R2
 - Monitor infrastructure using various tools (Nagios, Kiwi, IPSentry), and data (Event
 Logs, Syslogs, and SNMP traps) to stay ahead of potential problems.
 - Handled mass deployment of software and updates using tools such as Desktop
