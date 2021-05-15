@@ -1,7 +1,7 @@
 # SHAWN W. SHIPLEY
 
 ```
-Chattanooga, TN | 423-987-5430 | shawn.shipley@gmail.com
+Chattanooga, TN | shawn.shipley@gmail.com
 http://www.linkedin.com/in/shawnshipley
 ```
 ## CAREER OBJECTIVE
